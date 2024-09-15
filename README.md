@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @JosephCapy
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Mangas
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: HE/HIM/Capibara
+- ⚡ Fun fact: ...
+
+<!---
+JosephCapy/JosephCapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
