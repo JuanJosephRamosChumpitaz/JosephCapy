@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JosephCapy
+- 👋 Hi, I’m @JosephR
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Mangas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: HE/HIM/Capibara
+- 😄 Pronouns: HE/HIM/
 - ⚡ Fun fact: ...
 
 <!---
