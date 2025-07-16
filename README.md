@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephR
-- 👀 I’m interested in Minecraft
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning Mangas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
